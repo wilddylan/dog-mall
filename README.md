@@ -43,6 +43,7 @@ mall-wx：小程序源码，使用 mpvue 框架
 mall-admin：管理后台源码，使用 antd-admin 修改，半成品 ...
 
 其他都是java的模块，最简单的maven多模块项目，直连数据库。。。
+数据库结构，dog-mall.sql 也放到里边了，新建个数据库import一下就好了
 
 
 
