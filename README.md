@@ -3,13 +3,15 @@
 
 #### 展示图
 
-![](images/IMG_3664.PNG)
+<figure class="half">
+    <img src="images/IMG_3664.PNG">
+    <img src="images/IMG_3665.PNG">
+</figure>
 
-![](images/IMG_3665.PNG)
-
-![](images/IMG_3666.PNG)
-
-![](images/IMG_3667.PNG)
+<figure class="half">
+    <img src="images/IMG_3666.PNG">
+    <img src="images/IMG_3667.PNG">
+</figure>
 
 
 
