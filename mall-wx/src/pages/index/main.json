@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "i-input-number": "../../../static/input-number/index",
+    "i-panel": "../../../static/panel/index"
+  }
+}

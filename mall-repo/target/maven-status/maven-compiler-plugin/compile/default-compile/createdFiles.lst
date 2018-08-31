@@ -1,0 +1,15 @@
+mall/dog/repo/handler/JsonArrayTypeHandler.class
+mall/dog/repo/product/provider/ProductSQLProvider.class
+mall/dog/repo/handler/JsonArrayTypeHandler$1.class
+mall/dog/repo/admin/AdminMapper.class
+mall/dog/repo/handler/ExpressEnumTypeHandler.class
+mall/dog/repo/admin/user/AdminUserMapper.class
+mall/dog/repo/handler/JsonTypeHandler.class
+mall/dog/repo/order/OrderMapper.class
+mall/dog/repo/RepoConfiguration.class
+mall/dog/repo/handler/JsonTypeHandler$1.class
+mall/dog/repo/user/UserMapper.class
+mall/dog/repo/product/ProductMapper.class
+mall/dog/repo/handler/ProductDetailHandler.class
+mall/dog/repo/handler/OrderEnumTypeHandler.class
+mall/dog/repo/order/provider/OrderSQLProvider.class

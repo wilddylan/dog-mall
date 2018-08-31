@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/counter/main"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "土狗",
+    "navigationStyle": "default",
+    "backgroundTextStyle": "dark",
+    "enablePullDownRefresh": true,
+    "onReachBottomDistance": 100,
+    "backgroundColor": "#fff"
+  },
+  "tabBar": {
+    "color": "#aaaaaa",
+    "selectedColor": "#fff",
+    "position": "top",
+    "backgroundColor": "#000",
+
+    "list": [
+      {
+        "pagePath": "pages/index/main",
+        "text": "精选"
+      }, {
+        "pagePath": "pages/counter/main",
+        "text": "订单"
+      }
+    ]
+  },
+  "networkTimeout": {
+    "request": 60000,
+    "downloadFile": 60000
+  },
+  "debug": true
+}

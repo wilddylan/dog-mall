@@ -1,0 +1,13 @@
+/Users/root1/Desktop/dog-mall/mall-repo/src/main/java/mall/dog/repo/product/provider/ProductSQLProvider.java
+/Users/root1/Desktop/dog-mall/mall-repo/src/main/java/mall/dog/repo/admin/AdminMapper.java
+/Users/root1/Desktop/dog-mall/mall-repo/src/main/java/mall/dog/repo/handler/JsonTypeHandler.java
+/Users/root1/Desktop/dog-mall/mall-repo/src/main/java/mall/dog/repo/RepoConfiguration.java
+/Users/root1/Desktop/dog-mall/mall-repo/src/main/java/mall/dog/repo/handler/OrderEnumTypeHandler.java
+/Users/root1/Desktop/dog-mall/mall-repo/src/main/java/mall/dog/repo/order/OrderMapper.java
+/Users/root1/Desktop/dog-mall/mall-repo/src/main/java/mall/dog/repo/order/provider/OrderSQLProvider.java
+/Users/root1/Desktop/dog-mall/mall-repo/src/main/java/mall/dog/repo/user/UserMapper.java
+/Users/root1/Desktop/dog-mall/mall-repo/src/main/java/mall/dog/repo/handler/JsonArrayTypeHandler.java
+/Users/root1/Desktop/dog-mall/mall-repo/src/main/java/mall/dog/repo/handler/ProductDetailHandler.java
+/Users/root1/Desktop/dog-mall/mall-repo/src/main/java/mall/dog/repo/handler/ExpressEnumTypeHandler.java
+/Users/root1/Desktop/dog-mall/mall-repo/src/main/java/mall/dog/repo/product/ProductMapper.java
+/Users/root1/Desktop/dog-mall/mall-repo/src/main/java/mall/dog/repo/admin/user/AdminUserMapper.java

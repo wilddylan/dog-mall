@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "i-card": "../../../static/card/index",
+    "i-avatar": "../../../static/avatar/index",
+    "i-icon": "../../../static/icon/index",
+    "i-button": "../../../static/button/index"
+  }
+}

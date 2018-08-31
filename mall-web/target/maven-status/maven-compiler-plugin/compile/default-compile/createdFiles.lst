@@ -1,0 +1,13 @@
+mall/dog/web/annotation/LogResult.class
+mall/dog/web/configuration/Logger.class
+mall/dog/web/controller/file/QiniuController.class
+mall/dog/web/controller/user/UserController.class
+mall/dog/web/exception/FinalErrorHandler.class
+mall/dog/web/controller/admin/user/AdminUserController.class
+mall/dog/web/exception/GlobalExceptionHandler.class
+mall/dog/web/controller/admin/AdminController.class
+mall/dog/web/controller/product/HotProductController.class
+mall/dog/web/controller/order/OrderController.class
+mall/dog/web/MallApplication.class
+mall/dog/web/configuration/WebConfig.class
+mall/dog/web/handler/GlobalRequestHandler.class

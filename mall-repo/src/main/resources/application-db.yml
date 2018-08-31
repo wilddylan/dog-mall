@@ -1,0 +1,21 @@
+spring:
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/dog_mall?useUnicode=true&characterEncoding=utf-8&useSSL=false
+    username: root
+#    password: 1234598765a
+    password: Aa!!2018!!
+    type: com.zaxxer.hikari.HikariDataSource
+    hikari:
+      minimum-idle: 5
+      maximum-pool-size: 15
+      auto-commit: true
+      idle-timeout: 30000
+      pool-name: DatebookHikariCP
+      max-lifetime: 1800000
+      connection-timeout: 30000
+      connection-test-query: SELECT 1
+
+logging:
+  level:
+    com.zaxxer.hikari: debug
