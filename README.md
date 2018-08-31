@@ -3,10 +3,12 @@
 
 #### 展示图
 
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="images/IMG_3664.PNG"  width="200" height="auto" ></div>
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="images/IMG_3665.PNG" width="200" height="auto" ></div>
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="images/IMG_3666.PNG" width="200" height="auto" ></div>
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="images/IMG_3667.PNG" width="200" height="auto" ></div>
+<div style="display:flex; flex-direction:row;">
+    <img src="images/IMG_3664.PNG"  width="200" height="auto" >
+    <img src="images/IMG_3665.PNG" width="200" height="auto" >
+    <img src="images/IMG_3666.PNG" width="200" height="auto" >
+    <img src="images/IMG_3667.PNG" width="200" height="auto" >
+</div>
 
 #### 简单构思
 
