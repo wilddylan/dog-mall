@@ -3,13 +3,13 @@
 
 #### 展示图
 
-![展示1](https://github.com/WildDylan/dog-mall/edit/master/images/IMG_3664.PNG)
+![](images/IMG_3664.PNG)
 
-![展示2](https://github.com/WildDylan/dog-mall/edit/master/images/IMG_3665.PNG)
+![](images/IMG_3665.PNG)
 
-![展示3](https://github.com/WildDylan/dog-mall/edit/master/images/IMG_3666.PNG)
+![](images/IMG_3666.PNG)
 
-![展示4](https://github.com/WildDylan/dog-mall/edit/master/images/IMG_3667.PNG)
+![](images/IMG_3667.PNG)
 
 
 
