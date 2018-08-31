@@ -3,7 +3,7 @@
 
 #### 展示图
 
-<div style="display:flex; flex-direction:row;">
+<div style="display:flex; flex-direction:row; alignItems: center; justifyContent: space-around;" >
     <img src="images/IMG_3664.PNG"  width="200" height="auto" >
     <img src="images/IMG_3665.PNG" width="200" height="auto" >
     <img src="images/IMG_3666.PNG" width="200" height="auto" >
