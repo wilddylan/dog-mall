@@ -255,13 +255,13 @@ mall-admin：管理后台源码，使用 antd-admin 修改，半成品 ...
     "datas": [
         {
             "expressInfo": {
-                "address": "内蒙古自治区巴彦淖尔市临河区临河一中[015000]",
-                "contact": "薛雨仑",
+                "address": "xxx",
+                "contact": "xxx",
                 "current": "",
                 "expect": "",
                 "expressNumber": "",
                 "name": "",
-                "phone": "18947488610",
+                "phone": "",
                 "postCode": "015000"
             },
             "expressState": "NONE",
