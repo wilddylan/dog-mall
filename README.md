@@ -3,15 +3,12 @@
 
 #### 展示图
 
-![展示1](https://github.com/WildDylan/dog-mall/edit/master/images/IMG_3664.PNG)
-
-![展示2](https://github.com/WildDylan/dog-mall/edit/master/images/IMG_3665.PNG)
-
-![展示3](https://github.com/WildDylan/dog-mall/edit/master/images/IMG_3666.PNG)
-
-![展示4](https://github.com/WildDylan/dog-mall/edit/master/images/IMG_3667.PNG)
-
-
+<div style="display:flex; flex-direction:row; alignItems: center; justifyContent: space-around; width: 100%;" >
+    <img src="images/IMG_3664.PNG"  width="200" height="auto" >
+    <img src="images/IMG_3665.PNG" width="200" height="auto" >
+    <img src="images/IMG_3666.PNG" width="200" height="auto" >
+    <img src="images/IMG_3667.PNG" width="200" height="auto" >
+</div>
 
 #### 简单构思
 
@@ -43,6 +40,7 @@ mall-wx：小程序源码，使用 mpvue 框架
 mall-admin：管理后台源码，使用 antd-admin 修改，半成品 ...
 
 其他都是java的模块，最简单的maven多模块项目，直连数据库。。。
+数据库结构，dog-mall.sql 也放到里边了，新建个数据库import一下就好了
 
 
 
@@ -255,13 +253,13 @@ mall-admin：管理后台源码，使用 antd-admin 修改，半成品 ...
     "datas": [
         {
             "expressInfo": {
-                "address": "内蒙古自治区巴彦淖尔市临河区临河一中[015000]",
-                "contact": "薛雨仑",
+                "address": "xxx",
+                "contact": "xxx",
                 "current": "",
                 "expect": "",
                 "expressNumber": "",
                 "name": "",
-                "phone": "18947488610",
+                "phone": "",
                 "postCode": "015000"
             },
             "expressState": "NONE",
