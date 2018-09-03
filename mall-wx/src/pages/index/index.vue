@@ -521,7 +521,7 @@ text, p, span {
       <p class="price">{{price}}</p>
       <button v-if="needBind" class="bind" open-type="getUserInfo" plain="true" @getuserinfo="btnGetUserInfo">绑定</button>
       <button class="share" open-type="share" plain="true">分享</button>
-      <p class="buy" @click="buyProduct">立即购买</p>
+      <p class="buy" @click="buyProduct">立即预约</p>
     </div>
 
     <!--屏幕背景变暗的背景  -->

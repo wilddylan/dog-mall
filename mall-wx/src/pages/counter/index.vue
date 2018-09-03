@@ -319,7 +319,7 @@ text, p, span {
         <!-- 已经邀请成功下单的好友 -->
         <div class="order-info-friend-invite">
           <div class="order-info-friend-invite-title">
-            <p>邀请下单可减免费用</p>
+            <p>邀请预约可减免费用</p>
             <p class="extra">{{item.invite}}</p>
           </div>
           <!-- <div class="order-info-friend-invite-friend-item">
