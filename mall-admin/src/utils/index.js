@@ -56,7 +56,7 @@ export function queryURL (name) {
 /**
  * 数组内查询
  * @param   {array}      array
- * @param   {String}    id
+ * @param   {key} key
  * @param   {String}    keyAlias
  * @return  {Array}
  */

@@ -7,12 +7,12 @@ import { Page } from 'components'
 import BraftEditor from 'braft-editor'
 import 'braft-editor/dist/braft.css'
 import * as qiniu from 'qiniu-js'
-import styles from './index.less'
+// import styles from './index.less'
 
 const FormItem = Form.Item
-const { TextArea } = Input
+// const { TextArea } = Input
 const Dragger = Upload.Dragger
-const InputGroup = Input.Group
+// const InputGroup = Input.Group
 
 
 const Product = ({ product, dispatch, loading, form: { getFieldDecorator, validateFieldsAndScroll } }) => {

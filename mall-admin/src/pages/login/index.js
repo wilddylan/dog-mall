@@ -27,34 +27,24 @@ const Login = ({
   return (
     <div className={styles.form}>
       <div className={styles.logo}>
-        {/*<img alt="logo" src={config.logo} />*/}
         <span>{config.name}</span>
       </div>
       <form>
         <FormItem hasFeedback>
-          {getFieldDecorator('username', {
-            rules: [
-              {
-                required: true,
-              },
-            ],
-          })(<Input onPressEnter={handleOk} placeholder="用户名" />)}
+          {
+            getFieldDecorator('username', {})(<Input onPressEnter={handleOk} placeholder="请输入用户名" />)
+          }
         </FormItem>
         <FormItem hasFeedback>
-          {getFieldDecorator('password', {
-            rules: [
-              {
-                required: true,
-              },
-            ],
-          })(<Input type="password" onPressEnter={handleOk} placeholder="密码" />)}
+          {
+            getFieldDecorator('password', {})(<Input type="password" onPressEnter={handleOk} placeholder="请输入密码" />)
+          }
         </FormItem>
         <Row>
           <Button type="primary" onClick={handleOk} loading={loading.effects.login}>
-            登 录
+            立 即 登 录
           </Button>
         </Row>
-
       </form>
     </div>
   )

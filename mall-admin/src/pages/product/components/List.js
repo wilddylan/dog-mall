@@ -1,9 +1,9 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Table, Button } from 'antd'
-import classnames from 'classnames'
+// import classnames from 'classnames'
 import { Link } from 'react-router-dom'
-import AnimTableBody from 'components/DataTable/AnimTableBody'
+// import AnimTableBody from 'components/DataTable/AnimTableBody'
 import styles from './List.less'
 
 // const { confirm } = Modal
@@ -20,7 +20,7 @@ const List = ({ onDetailClick, ...tableProps }) => {
       dataIndex: 'delete',
       key: 'delete',
       // className: styles.avatar,
-      render: (text, record) => {
+      render: (text) => {
         let color = "#34a3ff"
         if (text === 1) {
           color = "#ff34ac"

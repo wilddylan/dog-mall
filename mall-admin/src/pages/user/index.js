@@ -1,19 +1,19 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { routerRedux } from 'dva/router'
+//import { routerRedux } from 'dva/router'
 import { connect } from 'dva'
 // import { Row, Col, Button, Popconfirm } from 'antd'
 import { Page } from 'components'
-import queryString from 'query-string'
+//import queryString from 'query-string'
 import List from './components/List'
 // import Filter from './components/Filter'
 // import Modal from './components/Modal'
 
 
 const User = ({ location, dispatch, user, loading }) => {
-  const { query, pathname } = location
+  // const { query, pathname } = location
   const {
-    datas, pagination, currentItem, modalVisible, modalType, isMotion, selectedRowKeys,
+    datas, pagination, isMotion,
   } = user
 
   // const handleRefresh = (newQuery) => {

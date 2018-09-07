@@ -8,7 +8,7 @@ import { Page } from 'components'
 const { TabPane } = Tabs
 
 const OrderList = ({ order, dispatch, loading }) => {
-  const { orderState, orderId, datas, pagination, visible, modalData } = order
+  const { orderState, datas, pagination, visible, modalData } = order
 
   const handleTabClick = (key) => {
     dispatch({

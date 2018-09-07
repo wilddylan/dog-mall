@@ -11,7 +11,7 @@ const fetch = (options) => {
     url,
   } = options
 
-  var cloneData = cloneDeep(data)
+  let cloneData = cloneDeep(data)
 
   try {
     let domain = ''

@@ -26,7 +26,7 @@ export default {
     }, { call, put }) {
       const data = yield call(query, payload)
       const {
-        success, message, status, ...other
+        success, ...other
       } = data
       if (success) {
         yield put({

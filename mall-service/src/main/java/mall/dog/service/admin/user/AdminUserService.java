@@ -15,6 +15,13 @@ import org.springframework.stereotype.Service;
  * Home: http://blog.devdylan.cn
  */
 @Service
+@com.alibaba.dubbo.config.annotation.Service(
+		version = "1.0.0",
+		application = "mall",
+		protocol = "dubbo",
+		registry = "user",
+		retries = 3
+)
 public class AdminUserService {
 
 	private final AdminUserMapper adminUserMapper;

@@ -36,7 +36,7 @@ export default modelExtend(pageModel, {
   },
 
   effects: {
-    * query ({ payload }, { call, put, select }) {
+    * query ({ payload }, { call, put }) {
 
       payload.orderId = ''
 

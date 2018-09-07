@@ -1,0 +1,34 @@
+#application config
+server:
+  # inner server config
+  undertow:
+    accesslog:
+      dir: logs/access
+      enabled: true
+      prefix: access_log.
+      rotate: true
+      suffix: log
+  port: 8989
+  # white error page
+  error:
+    whitelabel:
+      enabled: false
+# spring
+spring:
+  profiles:
+    active: db
+  banner:
+    location: banner.txt
+    charset: UTF-8
+  # application
+  application:
+    name: Dog Mall
+  # terminal colorful
+  output:
+    ansi:
+      enabled: always
+# log config
+logging:
+  path: logs/daily
+  file:
+    max-size: 1024MB
